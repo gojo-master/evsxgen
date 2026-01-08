@@ -1,0 +1,11 @@
+requests
+psutil
+colorama
+pystyle
+keyboard
+pyautogui
+PyQt6
+notify-py
+urllib3
+httpx
+selenium
